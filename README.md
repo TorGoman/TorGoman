@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TorGoman
 - 👀 I’m interested in Technical networks
-- 🌱 I’m currently learning pfsense , Mikrotik , Radius , Arduino , nodemcu , esp8266
+- 🌱 I’m currently learning pfsense , Mikrotik , Radius , Arduino , nodemcu , esp8266 , VBScript
 - 📫 How to reach me https://t.me/torgoman0
 
 <!---
